@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/98268491/179395084-00babc6e-82bd-456e-b3b6-cdc4f8cc65d1.png)
+![image](https://user-images.githubusercontent.com/98268491/179395597-5b7b89ef-fbe6-4f51-b075-2084856edd07.png)
 
 # Business Problem
 FLO, an online shoe store, wants to segment its customers and determine marketing strategies according to these segments. To this end, the behaviors of the customers will be defined and groups will be formed according to the clusters in these behaviors.
